@@ -16,7 +16,7 @@ It contains key translation resources that can be used for translation activity 
 * [bitcoin.fr](https://www.bitcoin.fr) articles and knowledge base
 * The french translation of [Phoenix LN mobile app](https://github.com/ACINQ/phoenix)
 * wikipedia.fr
-* 
+
 # Technical terms Translation
 
 The following table contains technical terms and their equivalent in french, the source that influenced the decision and eventually remarks associated.
